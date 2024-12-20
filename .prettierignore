@@ -1,0 +1,12 @@
+*.json
+!package.json
+!tsconfig*.json
+!.vscode/**
+*.lock
+.DS_Store
+.env
+.git*
+.nvmrc
+.prettier*
+/node_modules/
+/dist
